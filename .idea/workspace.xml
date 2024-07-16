@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7471740-cee3-44a7-b1a9-984c12492e3a" name="Changes" comment="storage">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x01-NoSQL/0-list_databases" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x01-NoSQL/1-use_or_create_database" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x01-NoSQL/10-update_topics.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x01-NoSQL/100-find" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x01-NoSQL/101-students.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x01-NoSQL/102-log_stats.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x01-NoSQL/11-schools_by_topic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x01-NoSQL/12-log_stats.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x01-NoSQL/2-insert" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x01-NoSQL/3-all" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x01-NoSQL/4-match" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x01-NoSQL/5-count" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x01-NoSQL/6-update" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x01-NoSQL/7-delete" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x01-NoSQL/8-all.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x01-NoSQL/9-insert_school.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x01-NoSQL/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x01-NoSQL/dump.zip" beforeDir="false" />
-    </list>
+    <list default="true" id="b7471740-cee3-44a7-b1a9-984c12492e3a" name="Changes" comment="storage" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,23 +17,26 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2j4qt9sKsGKyUFWGxIsQYhGjFRu" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -103,10 +86,27 @@
       <option name="project" value="LOCAL" />
       <updated>1720656777105</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="storage">
+      <option name="closed" value="true" />
+      <created>1721170610496</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721170610496</updated>
+    </task>
+    <task id="LOCAL-00007" summary="storage">
+      <option name="closed" value="true" />
+      <created>1721170762664</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721170762664</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="storage" />
     <option name="LAST_COMMIT_MESSAGE" value="storage" />
   </component>
